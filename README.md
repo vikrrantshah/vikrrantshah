@@ -5,4 +5,4 @@ A programmer who takes pleasure in exploring the culinary world of spices when I
 
 Innovator by nature, I enjoy staying up to date with tech and keep learning new things in software development space. I have over three years of experience in designing and implementing robust code for high-volume businesses. I thrive on full-stack development and platform architecture, and I use my interpersonal skills to work with engineering teams to find efficient business solutions. My passion for programming often inspires me to tackle complex problems. I experiment with modern web technologies to enhance the end user experience. I have a strong background in developing and optimizing data processes that deliver consistent high-quality, scalable applications.
 
-> Visit my (website)[http://vikrantshah.me/] if you'd like to know more.
+> Visit my [website](http://vikrantshah.me/) if you'd like to know more.
